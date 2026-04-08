@@ -114,12 +114,6 @@ npm run dev
 
 ---
 
-## 📷 Preview
-
-(Add screenshots or demo link here)
-
----
-
 # 🔽 Default Next.js Info (Retained)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
